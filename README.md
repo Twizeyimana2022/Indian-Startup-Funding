@@ -4,10 +4,10 @@ Hypothesis
 Null Hypothesis:Technology companies receive more funding than the others
 Alternate Hypothesis: Technology companies do not receive more funding than the others
 Questions
-1. How many Tech and Non tech company were funded?
+1. How many Tech and Non tech company were funded? //
       Through the period from 2018 to 2021 more than 1150 Tech companies was funded.
       There are about 994 non tech companies that were funded
-      The rest companies had unknown sector class.
+      The rest companies had unknown sector class.//
 2. What was the trend Funding over the years. How many companies were funded each year?
 3. Top Ten Cities with Most Startups?
 4. Did Companies receive multiple funding through out the time period?
@@ -56,7 +56,7 @@ From the graph, 9 of the Funding stages had some of their fundings used to fund 
 
 From the graph, Mumbai startups had a more than 230billion dollars in fundings. Out of the Fundings almost two-third of it was used to fund Tech companies. Tech companies that heardquarted in carlifonia had all of their funds used to fund Tech companies. Bangalore, Chennai, Delhi, New Delhi and Prune had more of their fundings used to invest in Tech comapnies.
 
-Conclusion
+Conclusion::
 From the above analysis, we can accept the null hypothesis that most startups venture into technology and most of them received funding.
 The amount column has object data type. It has a dollar sign and commas.
 The founded column has float data type
